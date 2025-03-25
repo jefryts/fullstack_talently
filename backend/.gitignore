@@ -26,5 +26,6 @@ yarn-error.log
 !.vscode/extensions.json
 .history/*
 
+.npmrc
 .env
 /src/serviceAccountKey.json
